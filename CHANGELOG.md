@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.31.2](https://www.github.com/googleapis/google-api-java-client/compare/v1.31.1...v1.31.2) (2020-12-01)
+
+
+### Dependencies
+
+* update Guava to 30.0 ([#1645](https://www.github.com/googleapis/google-api-java-client/issues/1645)) ([9e34f37](https://www.github.com/googleapis/google-api-java-client/commit/9e34f37e2ef667507e03cb2d495b2c945851eb30))
+
 ### [1.31.1](https://www.github.com/googleapis/google-api-java-client/compare/v1.31.0...v1.31.1) (2020-11-16)
 
 
